@@ -16,8 +16,8 @@ El objetivo de este proyecto es recrear la apariencia de la vista principal de l
 
 A continuación, se muestran algunas capturas de pantalla del proyecto:
 
-!Captura de Pantalla 1
-!Captura de Pantalla 2
+![Vista Previa](https://github.com/DeveloperJGV/Instagram-Compose/blob/main/Screenshot.png)
+
 
 ## Instrucciones de Uso
 
