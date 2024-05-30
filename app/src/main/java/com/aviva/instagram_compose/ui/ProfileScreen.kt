@@ -88,12 +88,12 @@ fun ProfileScreen(
         when(selectedTabIndex){
             0 -> PostSection(
                 post = listOf(
-                    painterResource(id = R.drawable.profileimg),
-                    painterResource(id = R.drawable.profileimg),
-                    painterResource(id = R.drawable.profileimg),
-                    painterResource(id = R.drawable.profileimg),
-                    painterResource(id = R.drawable.profileimg),
-                    painterResource(id = R.drawable.profileimg)
+                    painterResource(id = R.drawable.first),
+                    painterResource(id = R.drawable.second),
+                    painterResource(id = R.drawable.third),
+                    painterResource(id = R.drawable.fourth),
+                    painterResource(id = R.drawable.fifth),
+                    painterResource(id = R.drawable.sixth)
                 ),
                 modifier = Modifier.fillMaxWidth()
             )
