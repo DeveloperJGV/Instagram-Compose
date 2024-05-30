@@ -18,6 +18,8 @@ A continuación, se muestran algunas capturas de pantalla del proyecto:
 
 ![Vista Previa](https://raw.githubusercontent.com/DeveloperJGV/Instagram-Compose/main/ScreenshotInsta.png)
 
+Si te gustan las imagenes también fueron hechas con IA.
+
 
 ## Instrucciones de Uso
 
