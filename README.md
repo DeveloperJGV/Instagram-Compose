@@ -16,7 +16,9 @@ El objetivo de este proyecto es recrear la apariencia de la vista principal de l
 
 A continuación, se muestran algunas capturas de pantalla del proyecto:
 
-![Vista Previa](https://raw.githubusercontent.com/DeveloperJGV/Instagram-Compose/main/ScreenshotInsta.png)
+![Vista Previa](https://github.com/DeveloperJGV/Bottom-Compose/blob/main/Home.png)
+![Vista Previa](https://github.com/DeveloperJGV/Bottom-Compose/blob/main/Chat.png)
+![Vista Previa](https://github.com/DeveloperJGV/Bottom-Compose/blob/main/Config.png)
 
 Si te gustan las imagenes también fueron hechas con IA.
 
